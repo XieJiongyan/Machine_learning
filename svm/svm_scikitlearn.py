@@ -40,3 +40,4 @@ fig = plt.figure(figsize = (6, 6))
 ax = fig.add_subplot(111)
 plot(ax, model.predict, x, 'SVM + RBF')
 plt.show()
+

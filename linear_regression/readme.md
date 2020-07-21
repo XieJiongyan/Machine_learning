@@ -1,4 +1,4 @@
-## liner_regression
+## Machine_learning-liner_regression guide
 线性回归模型：
 $$
 \bm y = \bm w ^T \bm x + b = \bm w^* \bm x^*
