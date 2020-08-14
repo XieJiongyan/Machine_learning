@@ -62,3 +62,8 @@ $$
 
 ### `svm_scikitlearn.py`
 这里使用的数据集是`input/spiral.txt`中的螺旋形状的数据集。并且采用`scikit-learn`中的`sklearn.svm.SVC`进行分类
+## 集成学习 Ensemble learning
+### 项目结构：
+- `ensemble_learning/el_datagenerate.py`是数据生成的代码。
+- `ensemble_learing/el_reandomforest.py`是依据`sklearn.tree.DecisionTreeClassifier`封装的随机森林。
+- -`ensemble_learing/el_sklearn.py`是`sklearn.ensemble.BaggingClassifier`中的**bagging算法**实现
