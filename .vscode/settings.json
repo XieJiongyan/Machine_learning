@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "D:\\My_app\\anaconda\\envs\\tensorflow\\python.exe"
+    "python.pythonPath": "D:\\My_app\\anaconda\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
