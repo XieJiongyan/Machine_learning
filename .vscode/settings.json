@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "D:\\My_app\\anaconda\\python.exe",
+    "python.pythonPath": "/mnt/d/my_app/anaconda3/bin/python",
     "jupyter.jupyterServerType": "local"
 }
